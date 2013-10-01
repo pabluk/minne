@@ -3,6 +3,8 @@ Minne
 
 I'm Minne, your links shelf!
 
+A webapp built with Django REST framework in the Backend and AngularJS in the frontend.
+
 .. image:: https://raw.github.com/pabluk/minne/master/screenshots/screenshot_01.png
 
 Installation
