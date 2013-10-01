@@ -3,7 +3,7 @@ Minne
 
 I'm Minne, your links shelf!
 
-.. image:: https://raw.github.com/socketubs/minne/master/screenshots/screenshot_01.png
+.. image:: https://raw.github.com/pabluk/minne/master/screenshots/screenshot_01.png
 
 Installation
 ------------
